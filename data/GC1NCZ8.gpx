@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+  <name>Cache Listing Generated from Geocaching.com</name>
+  <desc>This is an individual cache generated from Geocaching.com</desc>
+  <author>Account "-gonefishing-" From Geocaching.com</author>
+  <email>contact@geocaching.com</email>
+  <url>http://www.geocaching.com</url>
+  <urlname>Geocaching - High Tech Treasure Hunting</urlname>
+  <time>2009-03-07T10:11:22.2615625Z</time>
+  <keywords>cache, geocache</keywords>
+  <bounds minlat="-41.164283" minlon="174.842483" maxlat="-41.163467" maxlon="174.843267" />
+  <wpt lat="-41.164283" lon="174.843267">
+    <time>2009-03-07T00:00:00</time>
+    <name>GC1NCZ8</name>
+    <desc>Gone Native #1 (Wellington) by -gonefishing-, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a33cc5f0-5327-40d9-ab22-cd47291c4e5c</url>
+    <urlname>Gone Native #1 (Wellington)</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1150482" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Gone Native #1 (Wellington)</groundspeak:name>
+      <groundspeak:placed_by>-gonefishing-</groundspeak:placed_by>
+      <groundspeak:owner id="1522941">-gonefishing-</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>New Zealand</groundspeak:country>
+      <groundspeak:state>North Island</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p&gt;Wilf Mexted Scenic Reserve is small area of delightful
+regenerating native bush which echoes with the sounds of native
+birdlife. The cache is located at the lookout, where you can enjoy
+views of the Tawa Valley.&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Before the clearance for farming and urban development, native
+bush covered the Tawa basin floor and extended to the heights of
+Colonial Knob to the West and Mt Roberts to the East. Now near the
+foot of Mt Roberts off Woodman Drive, Greenacres, Tawa, is a unique
+small part of the original bush preserved through the foresight of
+Wilf Mexted as a heritage to all.&lt;/p&gt;
+&lt;p&gt;Wilf Mexted was the great grandson of George Mexted who arrived
+from England aboard the “Lord William Bentinct” at Petone in May
+1841. The Mexted family farmed first at Johnsonville and then in
+Takapu Road, Tawa. On his return from the First World War, WIlf
+married Dorothy Lawrence of Johnsonville and farmed in Tawa. He
+built his farm homestead at what is now 8 Rewa Terrace. He later
+moved to Pauatahanui where he farmed for many years. Wilf Mexted
+was a great lover of trees and one of his favourite sayings was
+“plant a tree for unborn eyes to see”. He gave this bush area to
+the people of Tawa in 1939.&lt;/p&gt;
+&lt;p&gt;We trust those enjoying this gift of nature will help protect
+the future of this bush by keeping to the designated track to
+prevent damage to the flora.&lt;/p&gt;
+&lt;p&gt;Source: Signage at Wilf Mexted Scenic Reserve.&lt;/p&gt;
+&lt;p&gt;You will most likely lose Satellite reception in the bush, but
+follow the path to the lookout where you will regain reception.
+Sit, relax, listen to the birdsong, enjoy the view... The signs
+suggest the round trip is 25 mins, but that allows for a leisurely
+amble.&lt;/p&gt;
+&lt;p&gt;The cache is a 400ml camo snap lock container. When placed, it
+contained:&lt;br /&gt;
+Log book&lt;br /&gt;
+Pencil&lt;br /&gt;
+Muggle note&lt;br /&gt;
+Matchbox car&lt;br /&gt;
+Gonefishing fish&lt;br /&gt;
+&lt;/p&gt;&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;PK1NCZ8 - Parking&lt;br /&gt;S 41° 09.808 E 174° 50.549&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Within 3m of seat.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="63996990">
+          <groundspeak:date>2009-03-07T07:02:32</groundspeak:date>
+          <groundspeak:type>Publish Listing</groundspeak:type>
+          <groundspeak:finder id="383040">Zero Gravitas</groundspeak:finder>
+          <groundspeak:text encoded="False">Published</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  <wpt lat="-41.163467" lon="174.842483">
+    <time>2009-03-06T22:53:02.203</time>
+    <name>PK1NCZ8</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=086199c9-3525-4e71-9784-f79a7eb97ebd</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+</gpx>
